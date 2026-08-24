@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CodePractice\\1.\u521D\u7EA7\\3\\3.1OJ\\3.1.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A31F0B8B-9F4B-447A-89E7-DC7F99DBDD5B}|3.1.2\\3.1.2.vcxproj|D:\\CodePractice\\1.\u521D\u7EA7\\3\\3.1OJ\\3.1.2\\3.1.2\\01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A31F0B8B-9F4B-447A-89E7-DC7F99DBDD5B}|3.1.2\\3.1.2.vcxproj|solutionrelative:3.1.2\\01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "01.c",
+              "DocumentMoniker": "D:\\CodePractice\\1.\u521D\u7EA7\\3\\3.1OJ\\3.1.2\\3.1.2\\01.c",
+              "RelativeDocumentMoniker": "3.1.2\\01.c",
+              "ToolTip": "D:\\CodePractice\\1.\u521D\u7EA7\\3\\3.1OJ\\3.1.2\\3.1.2\\01.c",
+              "RelativeToolTip": "3.1.2\\01.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-08-23T12:56:43.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

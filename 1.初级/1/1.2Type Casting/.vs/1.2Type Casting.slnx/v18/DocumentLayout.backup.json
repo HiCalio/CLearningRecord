@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CodePractice\\1.\u57FA\u7840\\1.2Type Casting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{426EAC5D-0145-4C0B-9A92-5699F98CF820}|1.2Type Casting\\1.2Type Casting.vcxproj|D:\\CodePractice\\1.\u57FA\u7840\\1.2Type Casting\\1.2Type Casting\\01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{426EAC5D-0145-4C0B-9A92-5699F98CF820}|1.2Type Casting\\1.2Type Casting.vcxproj|solutionrelative:1.2Type Casting\\01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "01.c",
+              "DocumentMoniker": "D:\\CodePractice\\1.\u57FA\u7840\\1.2Type Casting\\1.2Type Casting\\01.c",
+              "RelativeDocumentMoniker": "1.2Type Casting\\01.c",
+              "ToolTip": "D:\\CodePractice\\1.\u57FA\u7840\\1.2Type Casting\\1.2Type Casting\\01.c",
+              "RelativeToolTip": "1.2Type Casting\\01.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-08-22T11:03:50.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="1.3Printf/1.3Printf.vcxproj" Id="afddebba-da6d-49b9-b6dc-0e3bac369a6a" />
+</Solution>

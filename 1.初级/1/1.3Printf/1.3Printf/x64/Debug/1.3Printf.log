@@ -1,0 +1,4 @@
+﻿  01.c
+D:\CodePractice\1.基础\1.3Printf\1.3Printf\01.c(8,6): warning C4305: “=”: 从“double”到“float”截断
+D:\CodePractice\1.基础\1.3Printf\1.3Printf\01.c(5,12): warning C4305: “初始化”: 从“double”到“float”截断
+  1.3Printf.vcxproj -> D:\CodePractice\1.基础\1.3Printf\x64\Debug\1.3Printf.exe
