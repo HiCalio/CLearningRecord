@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="4.1ArrayTransmit/4.1ArrayTransmit.vcxproj" Id="e5e179ff-4c64-4ef8-9893-76b2ffaa55db" />
+</Solution>
