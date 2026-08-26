@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="5.4堆和栈的差异/5.4堆和栈的差异.vcxproj" />
+</Solution>
