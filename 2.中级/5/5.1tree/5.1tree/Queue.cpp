@@ -28,5 +28,6 @@ bool DeQueue(LinkQueue& Q, ElemType& x) {
 	}
 	Q.front->next = p->next;
 	free(p);
+	return true;
 }
 //³ö¶Ó

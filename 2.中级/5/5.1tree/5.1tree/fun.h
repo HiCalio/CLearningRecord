@@ -3,7 +3,7 @@
 typedef char BiElemType;
 
 typedef struct BiNode {
-	BiElemType c;
+	BiElemType weight;
 	struct BiNode* lchild;
 	struct BiNode* rchild;
 }BiNode,*Bitree;
